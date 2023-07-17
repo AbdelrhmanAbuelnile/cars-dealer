@@ -1,0 +1,40 @@
+{
+    "details":[
+        {
+            "service": "Wrapping car with film",
+            "img": "../assets/imgs/image1.png",
+            "price": 355,
+            "promotion": "promotion"
+        },
+        {
+            "service": "Locksmith repair",
+            "img": "../assets/imgs/image2.png",
+            "price": 33,
+            "promotion": null
+        },
+        {
+            "service": "Painting disks",
+            "img": "../assets/imgs/image3.png",
+            "price": 50,
+            "promotion": "promotion"
+        },
+        {
+            "service": "Exhaust system tuning",
+            "img": "../assets/imgs/image4.png",
+            "price": 355,
+            "promotion": "promotion"
+        },
+        {
+            "service": "Body repair",
+            "img": "../assets/imgs/image5.png",
+            "price": 355,
+            "promotion": "promotion"
+        },
+        {
+            "service": "Car washing",
+            "img": "../assets/imgs/image6.png",
+            "price": 10,
+            "promotion": null
+        }
+    ]
+}

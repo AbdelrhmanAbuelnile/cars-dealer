@@ -1,5 +1,5 @@
 <template>
-    <div class="hello text-primary-white flex flex-col flex-1 md:py-5 py-3 h-screen overflow-x-hidden">
+    <div class="hello text-primary-white flex flex-col md:py-5 py-3 overflow-x-hidden">
         <header class="flex flex-row justify-between items-center lg:gap-64 border-b border-header-border md:py-16 lg:w-11/12 px-3 mx-auto">
             <div class="flex flex-row md:gap-4 gap-2 justify-between items-center pb-5">
                 <img src="../assets/imgs/logotype.svg" alt="logo">

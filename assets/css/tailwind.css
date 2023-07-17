@@ -4,6 +4,7 @@
 
 @layer components {
     .card {
-        @apply w-[443px] h-[243px] rounded-[32px] bg-card-gray
+        @apply w-full md:w-2/4 lg:w-[30%] rounded-2xl lg:rounded-[32px] bg-card-gray overflow-x-hidden py-6 pl-4 hover:bg-card-red duration-500 lg:h-80
+        flex flex-col justify-between overflow-hidden
     }
 }
