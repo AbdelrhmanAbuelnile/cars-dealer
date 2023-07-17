@@ -80,8 +80,6 @@
 </template>
 
 <script setup>
-
-const cardDetails = data.details
 </script>
 
 <style scoped>
