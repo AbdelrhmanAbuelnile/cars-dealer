@@ -80,7 +80,6 @@
 </template>
 
 <script setup>
-import data from '../services.json'
 
 const cardDetails = data.details
 </script>
