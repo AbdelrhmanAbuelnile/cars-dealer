@@ -4,3 +4,9 @@
     <Services class="md:rounded-[32px] rounded-2xl w-full mt-4" />
   </div>
 </template>
+
+<script setup>
+useSeoMeta({
+  title: 'car enjoyer'
+})
+</script>
